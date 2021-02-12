@@ -1,1 +1,2 @@
-message: "Hello World"
+display:
+ message: "Hello World"
