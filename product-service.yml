@@ -1,2 +1,2 @@
 display:
-  message: "Configured from Azure Spring Config Server"
+  message: Configured from Azure Spring Config Server
